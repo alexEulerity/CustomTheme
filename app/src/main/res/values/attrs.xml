@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="EulerityTextView">
+        <attr name="eulerityBackgroundColor" format="string" />
+        <attr name="eulerityTextColor" format="string" />
+        <attr name="backgroundRoundedView" format="integer" />
+    </declare-styleable>
+</resources>
